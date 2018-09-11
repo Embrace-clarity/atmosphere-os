@@ -1,4 +1,5 @@
 # Atmosphere OS
+# [Architecture](https://github.com/Embrace-clarity/atmosphere-os/blob/master/architecture.md)
 # Basic specs
 Summary:
 - No standalone apps
