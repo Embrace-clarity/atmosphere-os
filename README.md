@@ -24,5 +24,18 @@ Everything that is currently being done on our behalf by Apple an Google has to 
 
 ## Single identity
 Each aos member will have a single identity/@handler, this means no phone numbers or many chat apps like viber, skype, etc. All communication can go through Whisper, Dat or similar decentralised p2p network. Members will be able to call, message, follow other members on the network.
-## Hardware wallet
-Aos will support crypto currencies natively
+## Layers
+## Communication
+Think [Rotonde](https://github.com/rotonde) that support audio and video calling, private and public messages.
+## Transport
+A map that will support decentralised versions of Uber, Ratings, Airbnb, etc.
+## Collaborate
+Think Quip/Dropbox Paper
+## Wallet
+Aos will support crypto currencies natively. NFC support.
+## Audio
+A single layer that will support the future decentralised versions of Spotify, Soundcloud etc. 
+## Store
+This one needs a lot of explaining. As it will have community(bugs, feature request boards) and crowdfunding.
+## Camera
+This layer is more about filters, photo editing etc.
