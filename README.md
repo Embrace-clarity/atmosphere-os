@@ -23,8 +23,9 @@ Because aos creates a community we have to able to incentivise people to contrib
 
 Everything that is currently being done on our behalf by Apple an Google has to be done in a decentralised manner.
 
-## Single identity
+## Single identity / Switch between identities on system level
 Each aos member will have a single identity/@handler, this means no phone numbers or many chat apps like viber, skype, etc. All communication can go through Whisper, Dat or similar decentralised p2p network. Members will be able to call, message, follow other members on the network.
+> People will be able to switch between identities on a system level. Similar to loggin in dapps via metamask.
 ## Layers
 ## Communication
 Think [Rotonde](https://github.com/rotonde) that support audio and video calling, private and public messages.
