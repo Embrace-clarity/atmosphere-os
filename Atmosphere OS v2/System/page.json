@@ -1,5 +1,6 @@
 {
   "_class": "page",
+  "booleanOperation": 0,
   "do_objectID": "F40661FB-A5FD-4C27-B913-BE60FF664448",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,6 +27,7 @@
     ]
   },
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -75,6 +77,22 @@
     {
       "class": "artboard",
       "id": "224A1224-F0A0-4FC6-8635-0DD919B709F9"
+    },
+    {
+      "class": "artboard",
+      "id": "A775166D-2FDD-4F7A-A6C0-6ED8B670D56F"
+    },
+    {
+      "class": "artboard",
+      "id": "BA5A3F2B-7C65-4B10-878D-50D1C5CFDBE8"
+    },
+    {
+      "class": "artboard",
+      "id": "B91567F0-3577-49C9-B2BB-FA14648D5999"
+    },
+    {
+      "class": "artboard",
+      "id": "71B77286-D54C-49B0-A6E7-6B8EA109242F"
     }
   ],
   "name": "System",
@@ -85,9 +103,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
   },
