@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "F992A4DD-9919-43E9-8973-B62BB439067E",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": 0,
+  "do_objectID": "4720EEB3-A327-429E-8F40-749668EED5A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6A5C50F-D56E-4E2E-91A1-10AF42CF1447",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54F63C59-B826-419B-B27B-46DB32A3311E",
+    "height": 480,
+    "width": 340,
+    "x": -171,
+    "y": -241
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "27062D38-539A-40F7-B498-7646FF7D2B5E",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C11C71F6-874F-4F8E-9D11-50819DEE9D44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "432776E3-41B7-4CE6-AC60-E2775DCACBC7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 72,
+    "do_objectID": "B14F1A00-40D9-492B-9753-11BA5BB2B1AB",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 320
+  },
+  "name": "Browser / Warning",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DF601F9-0689-4A88-9DF4-6162D9DFFC18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "818D9A81-089C-4E0B-A647-529A08955D09",
+    "guides": [
+    ]
+  }
+}
